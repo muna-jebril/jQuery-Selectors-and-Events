@@ -14,20 +14,20 @@ Actual time needed to complete: 3  hours
 
 Number and name of feature: Feature #2: Filter images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour 
 
-Start time: _____
+Start time: 2pm
 
-Finish time: _____
+Finish time: 4 pm 
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour and 20 mins
 
 
 Number and name of feature: Feature #3: Style the application
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30mins
 
-Start time: _____
+Start time: 4 pm 
 
-Finish time: _____
+Finish time: 4:30pm 
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 mins 
